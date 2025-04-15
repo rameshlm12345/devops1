@@ -1,1 +1,3 @@
 welcome to Naresh labs
+
+welcome to devops course
